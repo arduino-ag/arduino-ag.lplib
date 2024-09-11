@@ -1,0 +1,11 @@
+(librepcb_library 658bb9cd-6887-4cc9-8023-75d21112204d
+ (name "arduino-ag")
+ (description "")
+ (keywords "")
+ (author "baumbus")
+ (version "0.1")
+ (created 2024-09-11T06:25:11Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
