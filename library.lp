@@ -3,7 +3,7 @@
  (description "")
  (keywords "")
  (author "baumbus")
- (version "0.2")
+ (version "0.3")
  (created 2024-09-11T06:25:11Z)
  (deprecated false)
  (url "")
