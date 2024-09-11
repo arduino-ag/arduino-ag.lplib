@@ -1,5 +1,5 @@
 (librepcb_component b48fb20a-5457-40a1-b3d3-2fb24471a3fd
- (name "Atmega2560")
+ (name "ATmega2560")
  (description "")
  (keywords "")
  (author "baumbus")
@@ -9,8 +9,8 @@
  (generated_by "")
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (schematic_only false)
- (default_value "")
- (prefix "")
+ (default_value "{{COMPONENT}}")
+ (prefix "U")
  (signal ace80694-538a-4bd0-94e9-e57151ac7be7 (name "D51") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
